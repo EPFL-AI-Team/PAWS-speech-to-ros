@@ -12,8 +12,6 @@ The system creates a seamless voice-to-motion pipeline:
 4. **Robot Response**: The robot acknowledges your command with a playful verbal response (via ElevenLabs TTS)
 5. **Motion Execution**: The quadruped robot executes the movement using ROS 2
 
-This creates a natural, conversational interface for robot control, making the Go2 feel more like an interactive companion than a traditional remote-controlled device.
-
 ## Quick Start
 
 ### Prerequisites
@@ -159,4 +157,4 @@ Voice interface that bridges human speech with robot commands.
 
 ## Acknowledgements
 
-This project builds upon the work from [com304-go2](https://github.com/dyvrl/com304-go2) and [go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk).
+This project was developed in the [EPFL AI Team](https://epflaiteam.ch/), and builds upon the work from [com304-go2](https://github.com/dyvrl/com304-go2) and [go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk).
